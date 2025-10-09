@@ -30,26 +30,39 @@ Lavorare con dati reali e tecniche avanzate è una sfida entusiasmante che apre 
 
 # Research Interests
 
-<div class="row">
-  <div class="column">
-    <div class="image-cropper">
-      <img src="{{site.baseurl}}/assets/images/search.png"/>
+<div class="row" style="display:flex; justify-content:center; gap:40px; margin-top:20px;">
+  <div class="column" style="text-align:center;">
+    <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
+      <img src="{{site.baseurl}}/assets/images/search.png" alt="Software Testing" style="width:100%; height:auto;"/>
     </div>
-    <p style="font-size:20px">Software<br> Testing</p>
+    <p style="font-size:20px; margin-top:10px;">Software<br> Testing</p>
   </div>
-  <div class="column">
-    <div class="image-cropper">
-      <img src="{{site.baseurl}}/assets/images/brain.png"/>
+  <div class="column" style="text-align:center;">
+    <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
+      <img src="{{site.baseurl}}/assets/images/brain.png" alt="Artificial Intelligence" style="width:100%; height:auto;"/>
     </div>
-    <p style="font-size:20px">Artificial<br> Intelligence</p>
+    <p style="font-size:20px; margin-top:10px;">Artificial<br> Intelligence</p>
   </div>
-  <div class="column">
-    <div class="image-cropper">
-      <img src="{{site.baseurl}}/assets/images/dna.png"/>
+  <div class="column" style="text-align:center;">
+    <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
+      <img src="{{site.baseurl}}/assets/images/dna.png" alt="Evolutionary Computation" style="width:100%; height:auto;"/>
     </div>
-    <p style="font-size:20px">Evolutionary<br> Computation</p>
+    <p style="font-size:20px; margin-top:10px;">Evolutionary<br> Computation</p>
+  </div>
+  <div class="column" style="text-align:center;">
+    <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
+      <img src="{{site.baseurl}}/assets/images/data-visualization.png" alt="Data Visualization" style="width:100%; height:auto;"/>
+    </div>
+    <p style="font-size:20px; margin-top:10px;">Data<br> Visualization</p>
+  </div>
+  <div class="column" style="text-align:center;">
+    <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
+      <img src="{{site.baseurl}}/assets/images/agents.png" alt="Machine Learning Agents" style="width:100%; height:auto;"/>
+    </div>
+    <p style="font-size:20px; margin-top:10px;">Machine Learning<br> Agents</p>
   </div>
 </div>
+
 
 
 
