@@ -8,9 +8,25 @@ title: "Bio"
 <img src="{{site.baseurl}}/assets/images/Riccio-squared.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
-I am an Assistant Professor at Università di Udine, Italy. Previously, I was a Postdoctoral Researcher with the [Software Institute](https://www.si.usi.ch) of Università della Svizzera Italiana (USI) in Lugano, Switzerland, where I was part of the ERC advanced grant project [PRECRIME](https://www.pre-crime.eu) led by Prof. [Paolo Tonella](https://www.inf.usi.ch/faculty/tonella/#/). I obtained my Ph.D degree from Università degli Studi di Napoli "Federico II", Italy.
+Sono uno studente dell’Università di Udine, appassionato di Internet of Things, Big Data e Machine Learning, e sto sfruttando le potenzialità di questi ambiti per innovare con l’automazione intelligente.
+Nel mio percorso accademico e di ricerca, utilizzo strumenti avanzati di raccolta dati e machine learning per costruire soluzioni innovative che possono migliorare i processi e analizzare grandi quantità di informazioni in modo efficiente.
 
-My research is focused on test automation for mobile and machine learning-based software. 
+Traendo ispirazione dall'evoluzione degli agenti intelligenti come OpenAI Agent Builder, sono convinto che stiamo assistendo a una nuova era dell’automazione:
+
+Workflow IA complessi creati in modo visivo
+
+Processi che integrano raccolta dati, analisi e decisioni automatiche
+
+Automazione senza necessità di scrivere codice complesso
+
+Il mio interesse accademico si ispira anche a figure come il Prof. Paolo Tonella, con cui ho approfondito tematiche di test automation e machine learning applicato al software, nel contesto di progetti ERC avanzati come PRECRIME.
+
+Sto esplorando come queste tecnologie possano integrarsi con progetti concreti, tra cui:
+✅ Internet of Things per la raccolta dati in tempo reale
+✅ Analisi Big Data per estrarre insight significativi
+✅ Modelli di Machine Learning per automatizzare decisioni e previsioni
+
+Lavorare con dati reali e tecniche avanzate è una sfida entusiasmante che apre molte opportunità sia in ambito accademico sia nel mondo industriale.
 
 # Research Interests
 
