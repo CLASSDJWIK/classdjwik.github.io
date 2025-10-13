@@ -21,43 +21,43 @@
 title: " "
 email: willydjangang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Vincenzo Riccio - Assistant Professor @ UniUd - Software Engineering Research
-url: "https://p1ndsvin.github.io" # the base hostname & protocol for your site
+  Djangang Willy Kelvin Jr - Bachelor Student @ UniUd - Software Engineering Research
+url: "https://classdjwik.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: p1ndsvin
-github_username:  p1ndsvin
+reddit_username:  CJDWIK9KOL
+github_username:  classdjwik
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter fa-3x"
-      url: "https://twitter.com/p1ndsvin"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit fa-3x"
+      url: "https://www.reddit.com/user/CJDWIK9KOL/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-3x"
-      url: "https://github.com/p1ndsvin"
+      url: "https://github.com/classdjwik"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-3x"
-      url: "https://www.linkedin.com/in/vincenzo-riccio-ab1b1993"
+      url: "www.linkedin.com/in/willy-kelvin-junior-djangang-98658124a"
 
 author:
   name: "Vincenzo Riccio"
   #avatar: "/assets/images/Riccio.jpg"
-  bio: "Assistant Professor @ UniUd" # Note: Markdown is allowed
+  bio: "Bachelor Student @ UniUd" # Note: Markdown is allowed
   location: "Udine, Italy"
   links:
     #- label: "Made Mistakes"
     #  icon: ""
     #  url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/p1ndsvin"
+     - label: "Reddit"
+      icon: "fab fa-fw fa-reddit fa-3x"
+      url: "https://www.reddit.com/user/CJDWIK9KOL/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/p1ndsvin"
+      icon: "fab fa-fw fa-github fa-3x"
+      url: "https://github.com/classdjwik"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/vincenzo-riccio-ab1b1993"
+      icon: "fab fa-fw fa-linkedin fa-3x"
+      url: "www.linkedin.com/in/willy-kelvin-junior-djangang-98658124a"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.ch/citations?user=begiotMAAAAJ"
