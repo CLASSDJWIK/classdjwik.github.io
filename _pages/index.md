@@ -5,7 +5,7 @@ title: "Bio"
 ---
 
 <div class="row">
-<img src="{{site.baseurl}}/assets/images/Riccio-squared.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
+<img src="{{site.baseurl}}/assets/images/willy.webp" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
 Sono uno studente dell’Università di Udine, appassionato di Internet of Things, Big Data e Machine Learning, e sto sfruttando le potenzialità di questi ambiti per innovare con l’automazione intelligente.
@@ -51,13 +51,13 @@ Lavorare con dati reali e tecniche avanzate è una sfida entusiasmante che apre 
   </div>
   <div class="column" style="text-align:center;">
     <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
-      <img src="{{site.baseurl}}/assets/images/data-visualization.png" alt="Data Visualization" style="width:100%; height:auto;"/>
+      <img src="{{site.baseurl}}/assets/images/datavis.webp" alt="Data Visualization" style="width:100%; height:auto;"/>
     </div>
     <p style="font-size:20px; margin-top:10px;">Data<br> Visualization</p>
   </div>
   <div class="column" style="text-align:center;">
     <div class="image-cropper" style="width:100px; height:100px; overflow:hidden; margin:auto;">
-      <img src="{{site.baseurl}}/assets/images/agents.png" alt="Machine Learning Agents" style="width:100%; height:auto;"/>
+      <img src="{{site.baseurl}}/assets/images/mlex.webp" alt="Machine Learning Agents" style="width:100%; height:auto;"/>
     </div>
     <p style="font-size:20px; margin-top:10px;">Machine Learning<br> Agents</p>
   </div>
